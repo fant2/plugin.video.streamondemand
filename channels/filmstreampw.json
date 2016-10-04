@@ -2,7 +2,7 @@
     "channel": {
         "id": "filmstreampw",
         "name": "Filmstreampw",
-        "active": true,
+        "active": false,
         "adult": false,
         "category": [
                      "movie",
@@ -18,6 +18,6 @@
         "date": "26/06/2016"
    },
    "settings": {
-        "include_in_global_search": true
+        "include_in_global_search": false
    }
 }
