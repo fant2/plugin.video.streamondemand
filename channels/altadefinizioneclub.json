@@ -2,7 +2,7 @@
     "channel": {
         "id": "altadefinizioneclub",
         "name": "Altadefinizioneclub",
-        "active": true,
+        "active": false,
         "adult": false,
         "category": [
                      "movie"
@@ -17,6 +17,6 @@
         "date": "13/09/2016"
    },
    "settings": {
-        "include_in_global_search": true
+        "include_in_global_search": false
    }
 }
