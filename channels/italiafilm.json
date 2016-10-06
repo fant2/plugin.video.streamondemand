@@ -20,6 +20,6 @@
         "date": "26/08/2016"
    },
    "settings": {
-        "include_in_global_search": true
+        "include_in_global_search": false
    }
 }
