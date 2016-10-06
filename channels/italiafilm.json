@@ -2,7 +2,7 @@
     "channel": {
         "id": "italiafilm",
         "name": "Italia-Film.co",
-        "active": true,
+        "active": false,
         "adult": false,
         "category": [
                      "movie",
