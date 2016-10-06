@@ -2,7 +2,7 @@
     "channel": {
         "id": "filmsenzalimiti",
         "name": "Filmsenzalimiti",
-        "active": false,
+        "active": true,
         "adult": false,
         "category": [
                      "movie",
@@ -20,6 +20,6 @@
         "date": "26/06/2016"
    },
    "settings": {
-        "include_in_global_search": false
+        "include_in_global_search": true
    }
 }
