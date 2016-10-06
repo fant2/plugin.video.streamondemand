@@ -3,7 +3,7 @@
 	<id>filmsenzalimiti</id>
 	<name>Filmsenzalimiti</name>
 
-	<active>false</active>
+	<active>true</active>
 	<adult>false</adult>
 	<language>it</language>
 
@@ -24,6 +24,6 @@
 	</categories>
 
 	<settings>
-		<include_in_global_search>false</include_in_global_search>
+		<include_in_global_search>true</include_in_global_search>
 	</settings>
 </channel>
